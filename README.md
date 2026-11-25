@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Calvin Junk, DevOps Technical Architect and Lead DevOps Engineer" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Calvin Junk, DevOps Technical Architect and Lead DevOps Engineer" src="assets/banner-light.svg" width="100%">
 
 <p align="center">
   <a href="https://calvinjunk.com"><img alt="Website" src="https://img.shields.io/badge/calvinjunk.com-0969da?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAiLz48L3N2Zz4%3D"></a>
